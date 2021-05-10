@@ -7,6 +7,7 @@ import Swift
 public class RandomFruitsGenerator {
   public init()
   public func getRandomFruits() -> testfruit.RandomFruitsGenerator.Fruits
+  public func getheader() -> Swift.String
   public enum Fruits : Swift.CaseIterable {
     case mango
     case orange
