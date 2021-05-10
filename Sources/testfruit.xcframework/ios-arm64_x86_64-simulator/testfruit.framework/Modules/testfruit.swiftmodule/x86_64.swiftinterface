@@ -13,6 +13,7 @@ public class RandomFruitsGenerator {
   public func getVersion4() -> Swift.String
   public func getVerion() -> Swift.String
   public func getVerion7() -> Swift.String
+  public func getVerion8() -> Swift.String
   public enum Fruits : Swift.CaseIterable {
     case mango
     case orange
